@@ -17,22 +17,22 @@ const menu = [
   },
   {
     name: "Clients",
-    href: "#",
+    href: "/clients",
     icon: Users,
   },
   {
     name: "Invoices",
-    href: "#",
+    href: "/invoices",
     icon: FileText,
   },
   {
     name: "Payments",
-    href: "#",
+    href: "/payments",
     icon: CreditCard,
   },
   {
     name: "Settings",
-    href: "#",
+    href: "/settings",
     icon: Settings,
   },
 ];
